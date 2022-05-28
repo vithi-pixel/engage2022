@@ -4,7 +4,11 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 import seaborn as sns
-
+st.set_page_config(
+     page_title="CarDhundo.com",
+     page_icon=":car:",
+     initial_sidebar_state="expanded"
+ )
 make=""
 model=""
 

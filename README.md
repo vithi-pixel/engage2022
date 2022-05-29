@@ -1,4 +1,4 @@
-1.First start by installing Annaconda navigator from browser
+1.First start by installing Anaconda navigator from browser
 
 2.create a conda environment through command prompt using command - conda create --name 'env-name' and activate that environment using command- conda activate 'env-name'
 
